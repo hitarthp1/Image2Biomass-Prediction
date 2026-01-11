@@ -50,6 +50,8 @@ Notes:
 ### `test/`
 Directory reserved for test images (hidden at scoring time); paths in `test.csv` point here.
 
+### note:
+For more information on datasets check the Kaggle Page : https://www.kaggle.com/competitions/csiro-biomass/data
 ---
 
 ## Submission Format
